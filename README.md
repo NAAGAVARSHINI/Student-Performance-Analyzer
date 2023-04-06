@@ -1,7 +1,7 @@
 # Student-Performance-Analyzer
 
 
-
+install nodejs in desktop
 install the npm packages
 npm init
 npm install mysql
