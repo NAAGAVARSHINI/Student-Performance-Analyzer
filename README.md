@@ -1,6 +1,6 @@
 # Student-Performance-Analyzer
 
-Th
+
 
 install the npm packages
 npm init
